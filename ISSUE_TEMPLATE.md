@@ -1,5 +1,5 @@
-# Issue Template
+# やりたいこと 
 
-## Task
-- [ ] Sing a song
-- [ ] Play the guitar
+## タスク
+- [ ] 
+
